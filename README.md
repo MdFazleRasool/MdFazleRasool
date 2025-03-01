@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/fazle rasool" target="blank"><img src="https://img.shields.io/twitter/follow/fazle rasool?logo=twitter&style=for-the-badge" alt="fazle rasool" /></a> </p>
 
-- 🔭 I’m currently working on **My-Snake-Game**
+
 
 - 🌱 I’m currently learning **React , DSA**
 
