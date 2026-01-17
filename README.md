@@ -12,9 +12,9 @@
 
 
 
-- 🌱 I’m currently learning **React , DSA**
+- 🌱 I’m currently learning **MERN , DSA ,AI**
 
-- 💬 Ask me about **react,JavaScript,DSA**
+- 💬 Ask me about **React,JavaScript,DSA ,Express js ,MongoDB**
 
 - 📫 How to reach me **fazleamity001@gmail.com**
 
